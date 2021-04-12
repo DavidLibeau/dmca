@@ -4,7 +4,7 @@ Yes, I am the copyright holder.
 
 **Please describe the nature of your copyright ownership or authorization to act on the owner's behalf.**
 
-I am the [private] of the repository https://github.com/hostolab/covidliste/ with my associate [private]t. We [private] the GitHub organisation hostolab
+I am the [private] of the repository https://github.com/hostolab/covidliste/ with my associate [private]. We [private] the GitHub organisation hostolab
 
 **Please provide a detailed description of the original copyrighted work that has allegedly been infringed. If possible, include a URL to where it is posted online.**
 
